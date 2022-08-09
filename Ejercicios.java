@@ -38,7 +38,35 @@ public class Ejercicios {
             int numero2 = 2;
             int numero3 = 3;
             System.out.println(numero1 + " " +  numero2 + " " + numero3);
+            System.out.println("--------Pregunta 7--------------");
+            double num = 50.65;
+            double num2 = 90.20;
+            double respuesta = num+num2 ;
+            System.out.println(respuesta);
 
+            System.out.println("--------Pregunta 8--------------");
+            double number = 30.20;
+            double number2 = 90.30;
+            double rpta = number*number2 ;
+            System.out.println(rpta);
+
+            System.out.println("--------Pregunta 9--------------");
+            int n1 = 25 ;
+            int n2 = 15;
+            if(n1<n2) {
+                System.out.println(n1);
+            }else {
+                System.out.println(n2);
+            }
+
+
+            System.out.println("--------Pregunta 10--------------");
+            Scanner entradaEscaner = new Scanner (System.in);
+            int nota1= entradaEscaner.nextInt();
+            if(nota1>=11) {
+                System.out.println("Aprobado");
+            }else {
+                System.out.println("Desaprobado");
 
             }
         }
