@@ -2,7 +2,6 @@ public class Ejercicios {
    import java.util.Scanner;
     public class Main {
         public static void main(String[] args) throws Exception {
-
             System.out.println("--------Pregunta 1--------------");
             int k = 125;
             int y = 5;
