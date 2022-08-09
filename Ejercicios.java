@@ -69,6 +69,16 @@ public class Ejercicios {
                 System.out.println("Desaprobado");
 
             }
+           /*ESTE CMABIO ES DE LA INTERFAZ*/
+           System.out.println("--------Pregunta 11--------------");
+            Scanner entradaEscaner = new Scanner (System.in);
+            int nota1= entradaEscaner.nextInt();
+            if(nota1>=11) {
+                System.out.println("Aprobado");
+            }else {
+                System.out.println("Desaprobado");
+
+            }
         }
     }
 
