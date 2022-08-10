@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bea8c998-13ee-41c4-bbc3-aeb7b06e2c3b" name="Changes" comment="creando archivo">
-      <change beforePath="$PROJECT_DIR$/Ejercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios.java" afterDir="false" />
+    <list default="true" id="bea8c998-13ee-41c4-bbc3-aeb7b06e2c3b" name="Changes" comment="subiendo en la rama main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -49,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660087973402</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="subiendo en la rama main">
+      <created>1660089111157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660089111157</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,7 +69,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -65,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creando archivo" />
-    <option name="LAST_COMMIT_MESSAGE" value="creando archivo" />
+    <MESSAGE value="subiendo en la rama main" />
+    <option name="LAST_COMMIT_MESSAGE" value="subiendo en la rama main" />
   </component>
 </project>
